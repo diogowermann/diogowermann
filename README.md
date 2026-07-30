@@ -72,4 +72,4 @@ I am expanding from infrastructure and automation into cybersecurity, with parti
 
 ---
 
-Most projects in this profile are based on real operational problems. Organization-specific identifiers, credentials, addresses, certificates, and other sensitive information are removed or replaced before publication.
+Most projects in this profile are based on real operational problems, and maybe some personal projects I'd like to share. Organization-specific identifiers, credentials, addresses, certificates, and other sensitive information are removed or replaced before publication.
